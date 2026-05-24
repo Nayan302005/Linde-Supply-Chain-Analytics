@@ -126,7 +126,7 @@ Visuals:
 (Add screenshot here)
 
 ```markdown
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Executive%20Dashboard.png)
 ```
 
 ---
@@ -144,7 +144,7 @@ Visuals:
 (Add screenshot here)
 
 ```markdown
-![Operations Dashboard](screenshots/operations_dashboard.png)
+![Operations Dashboard](https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Operations%20Dashboard.png)
 ```
 
 ---
