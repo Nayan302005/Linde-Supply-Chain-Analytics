@@ -169,9 +169,7 @@ This analysis helps industrial organizations:
 
 ---
 
-## 👨‍💻 Author
-**Nayan Dave**  
-Aspiring Data Analyst
+
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME">
