@@ -126,7 +126,7 @@ Visuals:
 (https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Executive%20Dashboard.png)
 
 ```markdown
-![Executive Dashboard]
+[Executive Dashboard]
 ```
 
 ---
@@ -141,10 +141,9 @@ Visuals:
 - Inventory Risk Analysis
 - Supplier Lead Time Distribution
 
-(Add screenshot here)
-
+(https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Operations%20Dashboard.png)
 ```markdown
-![Operations Dashboard](https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Operations%20Dashboard.png)
+[Operations Dashboard]
 ```
 
 ---
