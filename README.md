@@ -123,10 +123,10 @@ Visuals:
 - Inventory Distribution
 - Customer Priority Revenue
 
-(Add screenshot here)
+(https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Executive%20Dashboard.png)
 
 ```markdown
-![Executive Dashboard](https://github.com/Nayan302005/Linde-Supply-Chain-Analytics/blob/main/Executive%20Dashboard.png)
+![Executive Dashboard]
 ```
 
 ---
